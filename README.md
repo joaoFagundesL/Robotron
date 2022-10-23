@@ -1,1 +1,2 @@
-# robotron-2000# AluraRobo
+# robotron
+Project to learn how to manipulate DOM
